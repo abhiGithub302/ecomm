@@ -90,7 +90,7 @@ CREATE TABLE cart (
 ```
 cd backend
 npm install
-npm start
+node server.js
 ```
 ### 4. Setup Frontend (React)
 ```
